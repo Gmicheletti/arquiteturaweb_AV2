@@ -105,3 +105,6 @@ Você verá a interface interativa para testar os endpoints da API.
 - Apache JMeter
 
 ---
+
+## Render
+- `https://arquiteturaweb-av2-v539.onrender.com`
